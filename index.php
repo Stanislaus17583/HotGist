@@ -48,7 +48,7 @@ $get_posts = $con->query("SELECT * from posts order by id desc");
                             <li class="cat-yellow"><a href="#" class="white">Popular</a></li>
                         </ul>
                     </div>
-                    <h1><a href="#">Get Scary With This Vegan Spooky Spider Crackle Cake!</a></h1>
+                    <h1><a href="#">Get With This Vegan Spooky Spider Crackle Cake!</a></h1>
                     <div class="item-meta">
                         <span>by</span>
                         <a href="author.html">Admin Jackson</a>
